@@ -10,7 +10,7 @@ SELECT
 
 ,T1."OpenQty" as 'SO Open Qty'
 
-,T1."Quantity" as 'SO Qty'
+,T1."ItemCode"
 
 -- ,T2."Quantity" as 'DO Qty'
 
